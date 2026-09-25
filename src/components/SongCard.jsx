@@ -36,7 +36,7 @@ const styles = StyleSheet.create({
     height: 140,
     borderRadius: 16,
     marginBottom: 10,
-    backgroundColor: '#2A2A2A', // Placeholder mientras carga la imagen
+    backgroundColor: '#2A2A2A', 
   },
   titleRow: {
     flexDirection: 'row',
